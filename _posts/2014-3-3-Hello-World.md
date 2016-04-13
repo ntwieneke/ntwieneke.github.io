@@ -4,7 +4,8 @@ layout: post
 title: My first post
 ---
 
-![_config.yml[(/images/config.jpg)
+A link to [My Github](https://github.com/ntwieneke).
+
 
 Text test!
 
